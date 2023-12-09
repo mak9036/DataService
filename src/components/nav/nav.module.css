@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.nav a {
+    display: block;
+    padding: 10px 20px;
+    color: inherit;
+    text-decoration: initial;
+}
+
+.nav a:hover{
+    color: pink;
+}
